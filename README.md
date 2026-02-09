@@ -5,14 +5,14 @@
 It is a desktop edition of the UNO card game implementation in C++, with the Stack data structure as the core mechanism which facilitates all operations of the cards. The graphical user interface (GUI) is developed with the help of the Raylib library that creates an interactive and visual experience during the gameplay.
 This project is aimed at showing how one basic data structure, Stack (LIFO), can be used to represent an entire game system in the real world.
 
-## Objectives**
+## Objectives
 
  - To UNO card game with stack-based reasoning.
  - To use data structures concepts in a real life application.
  - To combine games logic and graphics.
  - To illustrate event-based program in Raylib.
 
-## Implementation of Data Structures.
+## Implementation of Data Structures
 
 The Stack data structure is used in all important elements of the game.
 
